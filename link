@@ -1,0 +1,54 @@
+#EXTM3U
+#EXTINF:-1 ,翡翠华丽台
+http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+
+#EXTINF:-1,Astro AEC
+http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
+#EXTINF:-1,Astro AEC
+http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
+
+#EXTINF:-1 ,翡翠台 - (香港线路)
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 ,无线翡翠
+https://p2.weizan.cn/1646497941/013205559193952308/live.m3u8
+
+#EXTINF:-1 ,TVB J2（香港线路）
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+
+#EXTINF:-1 ,翡翠明珠台 - 线路2（高清，香港线路）
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1 ,翡翠明珠台
+https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+
+#EXTINF:-1 ,无线财经·资讯台（高清，香港线路）
+https://cdn.hkdtmb.com/hls/85/index.m3u8
+
+#EXTINF:-1 ,ViuTV - （香港线路）
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+
+#EXTINF:-1 ,ViuTVsix - （香港线路）
+https://cdn.hkdtmb.com/hls/96/index.m3u8
+
+#EXTINF:-1 ,香港開電視
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 ,香港開電視
+http://livetv.dnsfor.me:80/channel.9.m3u8
+
+#EXTINF:-1 ,港台电视RTHK31
+https://cdn.hkdtmb.com/hls/31/index.m3u8
+#EXTINF:-1 ,港台电视RTHK32
+https://cdn.hkdtmb.com/hls/32/index.m3u8
+
+#EXTINF:-1,CA: HGTV HD
+http://icego.club:80/leno10/leno10/85706
+#EXTINF:-1 ,HGTV HD
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1,CA: FOX HD
+http://icego.club:80/leno10/leno10/85753
+
+#EXTINF:-1 ,Disney Channel
+http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+#EXTINF:-1 ,Nickelodeon
+http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+#EXTINF:-1,Nick Jr
+http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
