@@ -39,12 +39,27 @@ https://cdn.hkdtmb.com/hls/31/index.m3u8
 #EXTINF:-1 ,港台电视RTHK32
 https://cdn.hkdtmb.com/hls/32/index.m3u8
 
+#EXTINF:-1 ,8TV
+http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
+
+#EXTINF:-1 ,HBO HD
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 ,HBO HD
+https://gratismkctv.net/film/hbo.m3u8
+#EXTINF:-1 ,HBO Signature
+http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+
 #EXTINF:-1,CA: HGTV HD
 http://icego.club:80/leno10/leno10/85706
 #EXTINF:-1 ,HGTV HD
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1,CA: FOX HD
 http://icego.club:80/leno10/leno10/85753
+#EXTINF:-1,FX
+http://icego.club:80/leno10/leno10/54472
+
+#EXTINF:-1 ,Tennis Channel Intl
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 ,Disney Channel
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
