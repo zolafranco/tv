@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,翡翠华丽台
 http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1 ,天映频道
+http://50.7.161.82:8277/streams/d/celestial_pye/playlist.m3u8
 
 #EXTINF:-1,Astro AEC
 http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
@@ -47,19 +49,30 @@ http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 ,HBO HD
 https://gratismkctv.net/film/hbo.m3u8
 #EXTINF:-1 ,HBO Signature
-http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 ,FoxMovies
+https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
 
-#EXTINF:-1,CA: HGTV HD
-http://icego.club:80/leno10/leno10/85706
 #EXTINF:-1 ,HGTV HD
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-#EXTINF:-1,CA: FOX HD
-http://icego.club:80/leno10/leno10/85753
-#EXTINF:-1,FX
-http://icego.club:80/leno10/leno10/54472
 
 #EXTINF:-1 ,Tennis Channel Intl
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,ELEVEN1(soccer)
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 ,广东体育
+http://93.190.139.36:8278/streams/d/gdsports/playlist.m3u8
+#EXTINF:-1 ,CCTV5
+http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
+#EXTINF:-1 ,魅力足球
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:-1 ,五星体育
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 ,新视觉
+http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+#EXTINF:-1 ,Bein1 Sports
+http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
+
 
 #EXTINF:-1 ,Disney Channel
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
