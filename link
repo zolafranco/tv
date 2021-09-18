@@ -60,12 +60,8 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 ,Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="FoxMoviesAsia.us" tvg-country="ASIA" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/vs51MBW.png" group-title="Movies",Fox Movies Asia (Vietnamese) (1080p)
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 ,HGTV HD
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-#EXTINF:-1 ,HGTV HD
-http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8808&key=84797b799ae18d1b
 
 #EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="Family",National Geographic
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
