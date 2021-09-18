@@ -8,7 +8,8 @@ http://50.7.161.82:8277/streams/d/celestial_pye/playlist.m3u8
 http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
 #EXTINF:-1,Astro AEC
 http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
-
+#EXTINF:-1 ,HK03_电影一台
+http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 #EXTINF:-1 ,翡翠台 - (香港线路)
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 ,无线翡翠
@@ -49,6 +50,8 @@ http://50.7.161.82:8278/streams/d/tv8_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 ,HBO HD
 https://gratismkctv.net/film/hbo.m3u8
+#EXTINF:-1 ,HBO (Chinese sub)
+http://107.167.5.66:80/mylive/102/2065/index.m3u8
 #EXTINF:-1 ,HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1 ,FOXHD
@@ -57,8 +60,12 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 ,Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="FoxMoviesAsia.us" tvg-country="ASIA" tvg-language="Vietnamese" tvg-logo="https://i.imgur.com/vs51MBW.png" group-title="Movies",Fox Movies Asia (Vietnamese) (1080p)
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1 ,HGTV HD
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1 ,HGTV HD
+http://1369476438.rsc.cdn77.org:80/view.php?type=m3u8&id=cn_0_8808&key=84797b799ae18d1b
 
 #EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="Family",National Geographic
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
@@ -101,6 +108,7 @@ http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 ,Bein1 Sports
 http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
+
 
 #EXTINF:-1 ,Disney Channel
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
