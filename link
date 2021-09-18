@@ -57,12 +57,6 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 ,Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 ,FOX SPORTS 1
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport1
-#EXTINF:-1 ,FOX SPORTS 2
-https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport2
-#EXTINF:-1 ,FOX SPORTS 3
-https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport3
 #EXTINF:-1 ,HGTV HD
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
@@ -108,13 +102,9 @@ http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf
 #EXTINF:-1 ,Bein1 Sports
 http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
 
-
 #EXTINF:-1 ,Disney Channel
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 ,Nickelodeon
 http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1,Nick Jr
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
-
-#EXTINF:-1,1.13卫视卡式台
-http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
