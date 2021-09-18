@@ -16,19 +16,20 @@ https://p2.weizan.cn/1646497941/013205559193952308/live.m3u8
 
 #EXTINF:-1 ,TVB J2（香港线路）
 https://cdn.hkdtmb.com/hls/82/index.m3u8
-
-#EXTINF:-1 ,翡翠明珠台 - 线路2（高清，香港线路）
-https://cdn.hkdtmb.com/hls/84/index.m3u8
-#EXTINF:-1 ,翡翠明珠台
+#EXTINF:-1 ,TVB J2
 https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 
-#EXTINF:-1 ,无线财经·资讯台（高清，香港线路）
+#EXTINF:-1 ,翡翠明珠台
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+
+
+#EXTINF:-1 ,无线财经·资讯台
 https://cdn.hkdtmb.com/hls/85/index.m3u8
 
-#EXTINF:-1 ,ViuTV - （香港线路）
+#EXTINF:-1 ,ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 
-#EXTINF:-1 ,ViuTVsix - （香港线路）
+#EXTINF:-1 ,ViuTVsix
 https://cdn.hkdtmb.com/hls/96/index.m3u8
 
 #EXTINF:-1 ,香港開電視
@@ -56,14 +57,15 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 ,Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 ,FOX SPORTS 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport1
+#EXTINF:-1 ,FOX SPORTS 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport2
+#EXTINF:-1 ,FOX SPORTS 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8#https://home-tv.web.id/dinda/maling_gk_ada_modal.m3u8?channel=usee-foxsport3
 #EXTINF:-1 ,HGTV HD
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-#EXTINF:-1 tvg-id="HGT.US" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="家庭娱乐",HGTV
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/hgtv.png", HGTV V+
-https://akamai.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
-#EXTINF:-1 ,HGTV HD
-http://50.7.59.216:61980/myplay/cn_0_8808/index.m3u8?key=84797b799ae18d1b
+
 #EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="Family",National Geographic
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
@@ -113,3 +115,6 @@ http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1,Nick Jr
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+
+#EXTINF:-1,1.13卫视卡式台
+http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
