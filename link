@@ -12,6 +12,7 @@ http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 #EXTINF:-1 ,翡翠台 - (香港线路)
 https://cdn.hkdtmb.com/hls/81/index.m3u8
+http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 #EXTINF:-1 ,无线翡翠
 https://p2.weizan.cn/1646497941/013205559193952308/live.m3u8
 
