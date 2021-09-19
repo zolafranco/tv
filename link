@@ -12,9 +12,7 @@ http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
 #EXTINF:-1 ,翡翠台 - (香港线路)
 https://cdn.hkdtmb.com/hls/81/index.m3u8
-#EXTINF:-1 ,翡翠台
-http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-#EXTINF:-1 ,无线翡翠
+#EXTINF:-1 ,无线翡翠台
 https://p2.weizan.cn/1646497941/013205559193952308/live.m3u8
 
 #EXTINF:-1 ,TVB J2（香港线路）
@@ -64,6 +62,8 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 ,HGTV HD
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1 ,HGTV HD
+http://185.180.221.194:8278/streams/d/HGTV/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="Family",National Geographic
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
@@ -104,8 +104,6 @@ http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mn
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 ,新视觉
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
-#EXTINF:-1 ,Bein1 Sports
-http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
 
 
 #EXTINF:-1 ,Disney Channel
@@ -114,22 +112,3 @@ http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1,Nick Jr
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
-
-#EXTINF:-1,HGtv
-http://iptv.tvmalaysia.cc:80/139664/139664/6798
-#EXTINF:-1,HGtv
-http://iptv.tvmalaysia.cc:80/penang172/penang172/7076
-#EXTINF:-1,HGtv
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6798
-
-#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="http://tvmalaysia.cc:80/images/75cc9241f13d21de8368834292db1592.png" group-title="SPORTS",ASTRO SUPERSPORT
-http://iptv.tvmalaysia.cc/932633/932633/6708
-#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="http://tvmalaysia.cc:80/images/75cc9241f13d21de8368834292db1592.png" group-title="SPORTS",ASTRO SUPERSPORT 2
-#http://iptv.tvmalaysia.cc:80/penang172/penang172/6710
-http://iptv.tvmalaysia.cc/932633/932633/6710
-#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="http://tvmalaysia.cc:80/images/75cc9241f13d21de8368834292db1592.png" group-title="SPORTS",ASTRO SUPERSPORT 3
-#http://iptv.tvmalaysia.cc:80/penang172/penang172/6711
-http://iptv.tvmalaysia.cc/932633/932633/6711
-#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="ASTRO SUPERSPORT HD" tvg-logo="http://tvmalaysia.cc:80/images/75cc9241f13d21de8368834292db1592.png" group-title="SPORTS",ASTRO SUPERSPORT 4
-#http://iptv.tvmalaysia.cc:80/penang172/penang172/6712
-http://iptv.tvmalaysia.cc/932633/932633/6712
