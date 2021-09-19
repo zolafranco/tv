@@ -19,17 +19,26 @@ https://p2.weizan.cn/1646497941/013205559193952308/live.m3u8
 https://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 ,TVB J2
 https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+#EXTINF:-1,TVB J2
+http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
 
 #EXTINF:-1 ,翡翠明珠台
 https://cdn.hkdtmb.com/hls/84/index.m3u8
-
+#EXTINF:-1,明珠台
+http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 
 #EXTINF:-1 ,无线财经·资讯台
 https://cdn.hkdtmb.com/hls/85/index.m3u8
+#EXTINF:-1,财经资讯台
+http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
 
 #EXTINF:-1 ,ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1,ViuTV
+http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 
+#EXTINF:-1,ViuTVsix
+http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 #EXTINF:-1 ,ViuTVsix
 https://cdn.hkdtmb.com/hls/96/index.m3u8
 
@@ -60,6 +69,8 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 ,Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,Hello
+http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 #EXTINF:-1 ,HGTV HD
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
@@ -84,6 +95,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NHW.JP" tvg-logo="https://static.epg.best/jp/NHKWorld.jp.png" group-title="Berita",NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
 
 
 #EXTINF:-1 ,Tennis Channel Intl
