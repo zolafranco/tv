@@ -29,8 +29,10 @@ http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 
 #EXTINF:-1 ,无线财经·资讯台
 https://cdn.hkdtmb.com/hls/85/index.m3u8
-#EXTINF:-1,财经资讯台
+#EXTINF:-1,无线财经·资讯台
 http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
+#EXTINF:-1 ,无线财经·资讯台
+http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 
 #EXTINF:-1 ,ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
@@ -69,8 +71,6 @@ https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v2a1/mono.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 #EXTINF:-1 ch-id="AXN (TW)" tvg-logo="https://1.bp.blogspot.com/-RIwQ9uRx8Qo/YNHLP_gD_jI/AAAAAAAAAAc/K9K7-LwbOl8C6wQ-Z1uI5rEFSf1viYkIQCLcBGAsYHQ/w200-h98/download.png"   group-title="LOCKLE TV",AXN (TW)
 http://221.120.204.4/AXN-LOCKLE/playlist.m3u8
-#EXTINF:-1 ch-id="AXN HD (UK)" tvg-logo=" "  group-title="ENGLISH",AXN HD (UK)
-http://51.15.0.141:88/axn/index.m3u8
 #EXTINF:-1 ,FOXHD
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 ,FOXMovie
