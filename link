@@ -3,6 +3,8 @@
 http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 #EXTINF:-1 ,天映频道
 http://50.7.161.82:8277/streams/d/celestial_pye/playlist.m3u8
+#EXTINF:-1 ,天映频道
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hktypd&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 
 #EXTINF:-1,Astro AEC
 http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
@@ -10,6 +12,8 @@ http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
 http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
 #EXTINF:-1 ,HK03_电影一台
 http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
+#EXTINF:-1 有线电影台
+https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkyxdy&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 #EXTINF:-1 ,翡翠台 - (香港线路)
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 ,无线翡翠台
