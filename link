@@ -91,11 +91,6 @@ http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 #EXTINF:-1 ,HGTV HD
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ODk2ZmI5ZjctOWE3MS0zZmQ5LTlmNzktZGE1NzgzM2E2NGFk
-#EXTINF:-1 group-title="International Variety" tvg-id="Warner TV HD" tvg-chno="451" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png",451 Warner TV HD
-http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd
-
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="Singpura",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
