@@ -72,42 +72,30 @@ https://gratismkctv.net/film/hbo.m3u8
 http://107.167.5.66:80/mylive/102/2065/index.m3u8
 #EXTINF:-1 ,HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1,Flix
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bestmediainfo.com/timthumb.php?src=/wp-content/uploads/2018/05/andflix-logo_4.jpg&w=620&h=350&zc=1&q=" group-title="INDIA", And FLIX HD
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/playlist.m3u8
 #EXTINF:-1  tvg-id="0-9-privéhd" tvg-logo="https://www.exchange4media.com/news-photo/1505284911_sI2Bzt_70469.jpg" tvg-country="IN" tvg-url="" group-title="English Movies",And Prive HD 
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v2a1/mono.m3u8
+#EXTINF:-1  tvg-id="0-9-privéhd" tvg-logo="https://www.exchange4media.com/news-photo/1505284911_sI2Bzt_70469.jpg" tvg-country="IN" tvg-url="" group-title="English Movies",And Prive HD 
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Movies HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="English Movies",Star Movies HD 4K
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 #EXTINF:-1 ch-id="AXN (TW)" tvg-logo="https://1.bp.blogspot.com/-RIwQ9uRx8Qo/YNHLP_gD_jI/AAAAAAAAAAc/K9K7-LwbOl8C6wQ-Z1uI5rEFSf1viYkIQCLcBGAsYHQ/w200-h98/download.png"   group-title="LOCKLE TV",AXN (TW)
 http://221.120.204.4/AXN-LOCKLE/playlist.m3u8
 #EXTINF:-1,AXN
 http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
-#EXTINF:-1 tvg-id="WAR.Asia" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="电影",Warner TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 #EXTINF:-1,Hello
 http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 #EXTINF:-1 ,HGTV HD
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvNHD" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716065439314yz3.png",tvN HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTFhYzcxNDMtOWYwYy0zMzU4LTk0YmMtNzk5MzBiNDA2Nzll
-http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd
-
-#EXTINF:-1 tvg-id="STARChineseChannelHD" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/2019071606511620151r.png",STAR Chinese Channel HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTFhYzcxNDMtOWYwYy0zMzU4LTk0YmMtNzk5MzBiNDA2Nzll
-http://1.9.62.158/PLTV/88888888/224/3221227516/3221227516.mpd
-
-#EXTINF:-1 tvg-id="WarnerTVHD" group-title="ENTERTAINMENT" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png",Warner TV HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTFhYzcxNDMtOWYwYy0zMzU4LTk0YmMtNzk5MzBiNDA2Nzll
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ODk2ZmI5ZjctOWE3MS0zZmQ5LTlmNzktZGE1NzgzM2E2NGFk
+#EXTINF:-1 group-title="International Variety" tvg-id="Warner TV HD" tvg-chno="451" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071834181bzk.png",451 Warner TV HD
 http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd
 
-#EXTINF:-1 tvg-id="AXNHD" group-title="ENTERTAINMENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",AXN
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="Singpura",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -148,6 +136,9 @@ http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.
 http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 ,Bein sport 5
 http://str.smartip-tv.net:8888/BEIN_SPORT_5_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-id="111" group-title="MALAYSIA" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.us" tvg-country="ASIA" tvg-language="English" tvg-logo="" group-title="Kids",Cartoon Network Asia (720p)
 http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
