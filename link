@@ -9,6 +9,8 @@ https://cdn.hkdtmb.com/hls/81b/index.m3u8
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 ,无线翡翠台
 https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+#EXTINF:-1 ,无线翡翠台
+http://livetv.dnsfor.me:80/channel.18.m3u8
 #EXTINF:-1 ,天映频道
 http://50.7.161.82:8277/streams/d/celestial_pye/playlist.m3u8
 #EXTINF:-1 ,天映频道
@@ -84,24 +86,19 @@ https://f8e7y4c6.ssl.hwcdn.net/andprivehd/playlist.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 #EXTINF:-1,AXN
 http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
+#EXTINF:-1 tvg-ID="AXN.Int" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="Best of English Entertainment",AXN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTINF:-1,Hello
 http://50.7.161.82:8278/streams/d/Hello/playlist.m3u8
 #EXTINF:-1 ,HGTV HD
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1 tvg-id="HGT.US" tvg-logo="https://static.epg.best/us/HGTV.us.png" group-title="Best of English Entertainment",HGTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
 
-
-#EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="Singpura",Channel 5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
-https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
-#EXTINF:-1 tvg-ID="Ch8.SG" tvg-logo="https://www.mewatch.sg/image/5166818/16x9/236/133/a6eec7dcb1648300cfbaa9a076b4fce8/jV/channel-8.png" group-title="Singpura",8频道
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&
-https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
-#EXTINF:-1 tvg-ID="ChU.SG" tvg-logo="https://www.mewatch.sg/image/5308024/16x9/236/133/38aa7e2b749478c4bba097b540b93720/TN/channel-u.png" group-title="Singpura",U频道
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&
-https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 #EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="Singpura",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-ID="Ari.KR" logo="https://static.epg.best/kr/ArirangTV.kr.png" group-title="Berita",Arirang
@@ -132,6 +129,7 @@ http://str.smartip-tv.net:8888/BEIN_SPORT_5_HD/index.m3u8?token=test
 #EXTINF:-1 tvg-id="111" group-title="MALAYSIA" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+
 
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.us" tvg-country="ASIA" tvg-language="English" tvg-logo="" group-title="Kids",Cartoon Network Asia (720p)
 http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
