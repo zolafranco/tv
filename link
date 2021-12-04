@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,翡翠华丽台
-http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 #EXTINF:-1 ,无线翡翠台
 http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 #EXTINF:-1 ,无线翡翠台
@@ -41,21 +39,15 @@ https://cdn.hkdtmb.com/hls/96/index.m3u8
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 ,香港開電視
 http://livetv.dnsfor.me:80/channel.9.m3u8
-#EXTINF:-1 ,无线财经·资讯台
-https://cdn.hkdtmb.com/hls/85/index.m3u8
-#EXTINF:-1,无线财经·资讯台
-http://185.207.176.189:8080/channels/tv-85/playlist.m3u8
-#EXTINF:-1 ,无线财经·资讯台
-http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 
 #EXTINF:-1 ,港台电视RTHK31
 https://cdn.hkdtmb.com/hls/31/index.m3u8
+#EXTINF:0,RTHK31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 ,港台电视RTHK32
 https://cdn.hkdtmb.com/hls/32/index.m3u8
-#EXTINF:-1,Astro AEC
-http://50.7.161.82:8277/streams/d/aec_pye/playlist.m3u8
-#EXTINF:-1,Astro AEC
-http://50.7.161.82:8278/streams/d/aec_pye/playlist.m3u8
+#EXTINF:0,RTHK32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 ,HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
