@@ -49,14 +49,6 @@ https://cdn.hkdtmb.com/hls/32/index.m3u8
 #EXTINF:0,RTHK32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 ,HBO HD
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 ,HBO HD
-https://gratismkctv.net/film/hbo.m3u8
-#EXTINF:-1 ,HBO (Chinese sub)
-http://107.167.5.66:80/mylive/102/2065/index.m3u8
-#EXTINF:-1 ,HBO Signature
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTINF:-1,Flix
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Movies HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="English Movies",Star Movies HD 4K
@@ -71,9 +63,6 @@ http://203.154.243.89:11205/
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 ,Entrepreneur (720p)
 https://a.jsrdn.com/broadcast/7582ed85f7/+0000/c.m3u8
-#EXTINF:-1 ,Hometalk (1080p)
-https://playworksdigital-hometalk-1.vizio.wurl.com/manifest/playlist.m3u8
-
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="Singpura",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -98,8 +87,6 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Tennis Channel UK
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,ELEVEN1(soccer)
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 #EXTINF:-1 ,CCTV5
 http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
 #EXTINF:-1 ,CCTV5+
@@ -110,10 +97,3 @@ http://str.smartip-tv.net:8888/BEIN_SPORT_5_HD/index.m3u8?token=test
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
-
-#EXTINF:-1 tvg-id="CartoonNetworkAsia.us" tvg-country="ASIA" tvg-language="English" tvg-logo="" group-title="Kids",Cartoon Network Asia (720p)
-http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
-#EXTINF:-1 ,Nickelodeon
-http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
-#EXTINF:-1,Nick Jr
-http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
