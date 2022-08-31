@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 ,翡翠华丽
+http://23.237.10.66:16410
+
 #EXTINF:-1 ,ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1,ViuTV
@@ -14,6 +17,8 @@ https://cdn.hkdtmb.com/hls/96/index.m3u8
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 ,香港開電視
 http://livetv.dnsfor.me:80/channel.9.m3u8
+#EXTINF:-1 ,香港開電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 #EXTINF:-1 ,港台电视RTHK31
 https://cdn.hkdtmb.com/hls/31/index.m3u8
@@ -23,6 +28,9 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&r
 https://cdn.hkdtmb.com/hls/32/index.m3u8
 #EXTINF:0,RTHK32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 ,澳门莲花
+http://nettvpro.live/hls/lotustv.php?zgangd
 
 #EXTINF:-1,Flix
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
@@ -55,6 +63,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NHW.JP" tvg-logo="https://static.epg.best/jp/NHKWorld.jp.png" group-title="Berita",NHK World
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1,NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 
 #EXTINF:-1 ,Tennis Channel Intl
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
