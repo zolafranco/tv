@@ -1,6 +1,11 @@
 #EXTM3U
 #EXTINF:-1 ,翡翠华丽
 http://23.237.10.66:16410
+#EXTINF:-1 ,翡翠台
+http://98.142.138.122:1639/zhiboyuandakaTV/tvbjade83675.m3u8
+
+#EXTINF:-1 ,天映频道
+http://51.79.82.208:16024
 
 #EXTINF:-1 ,香港開電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
@@ -8,6 +13,11 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 http://livetv.dnsfor.me:80/channel.9.m3u8
 #EXTINF:-1 ,香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
+#EXTINF:-1 ,八度空间
+http://51.79.82.208:16005
+#EXTINF:-1 ,Astro Aec
+Http://51.79.82.208:16021
 
 #EXTINF:-1 ,港台电视RTHK31
 https://cdn.hkdtmb.com/hls/31/index.m3u8
@@ -26,10 +36,17 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Movies HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="English Movies",Star Movies HD 4K
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 
+#EXTINF:-1 ,粤语配音动画
+http://tc-tct.douyucdn2.cn/dyliveflv3/6462389rURBgOTqg.flv?wsAuth=b76e621dcdb2c75dffd394ad22fe9a4b&token=cpn-androidmpro-0-6462389-baf29e49b4d088e7fcdb0fb44704eae362ec89704dedfcc9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+
+#EXTINF:-1 ,Hgtv
+Http://51.79.82.208:16057
+
 #EXTINF:-1,DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 ,Entrepreneur (720p)
 https://a.jsrdn.com/broadcast/7582ed85f7/+0000/c.m3u8
+
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="Singpura",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -56,13 +73,28 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Tennis Channel UK
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,CCTV5
-http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
-#EXTINF:-1 ,CCTV5+
-http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
-#EXTINF:-1 ,Bein sport 5
-http://str.smartip-tv.net:8888/BEIN_SPORT_5_HD/index.m3u8?token=test
-#EXTINF:-1 tvg-id="111" group-title="MALAYSIA" tvg-logo="https://mediahomes.github.io/logos/sukan.png",Sukan RTM
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
+#EXTINF:-1 ,5體育
+http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
+#EXTINF:-1 ,5+體育賽事
+http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
+#EXTINF:-1 ,Espn
+Http://51.79.82.208:16417
+#EXTINF:-1 ,Bein Sports
+Http://51.79.82.208:16064
+#EXTINF:-1 ,Bein Sports3
+Http://51.79.82.208:16065
+#EXTINF:-1 ,Astro Arena
+Http://51.79.82.208:16058
+
+#EXTINF:-1 ,Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+#EXTINF:-1 ,Tv1
+Http://51.79.82.208:16001
+#EXTINF:-1 ,Tv2
+Http://51.79.82.208:16002
+#EXTINF:-1 ,Tv3
+Http://51.79.82.208:16003
+#EXTINF:-1 ,Didik Tv
+Http://51.79.82.208:16004
