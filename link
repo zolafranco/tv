@@ -2,13 +2,31 @@
 #EXTINF:-1 ,翡翠华丽
 http://23.237.10.66:16410
 #EXTINF:-1 ,翡翠台
-http://98.142.138.122:1639/zhiboyuandakaTV/tvbjade83675.m3u8
+http://185.207.176.189:8080/channels/tv-81/mpeg.2ts
+#EXTINF:-1 ,翡翠台
+http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+#EXTINF:-1 ,TVB J2
+http://185.207.176.189:8080/channels/tv-82/mpeg.2ts
+#EXTINF:-1 ,TVB J2
+http://iptv12k.com:35461/live/test167/12345/1006.m3u8
+#EXTINF:-1 ,TVB Pearl
+http://185.207.176.189:8080/channels/tv-84/mpeg.2ts
+#EXTINF:-1 ,TVB Pearl
+http://iptv12k.com:35461/live/test167/12345/1020.m3u8
+#EXTINF:-1 ,Astro Aec
+http://51.79.82.208:16021
 
 #EXTINF:-1 ,天映频道
 http://51.79.82.208:16024
 
 #EXTINF:-1 ,ViuTV
-http://98.142.138.122:1632/zhiboyuandakaTV/ViuTv21367.m3u8
+http://185.207.176.189:8080/channels/tv-99/mpeg.2ts 
+#EXTINF:-1 ,ViuTV
+http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
+#EXTINF:-1 ,ViuTV
+http://iptv12k.com:35461/live/test167/12345/1008.m3u8
+#EXTINF:-1 ,ViuTV 6
+http://185.207.176.189:8080/channels/tv-96/mpeg.2ts 
 
 #EXTINF:-1 ,香港開電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
@@ -16,11 +34,6 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 http://livetv.dnsfor.me:80/channel.9.m3u8
 #EXTINF:-1 ,香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-
-#EXTINF:-1 ,八度空间
-http://51.79.82.208:16005
-#EXTINF:-1 ,Astro Aec
-http://51.79.82.208:16021
 
 #EXTINF:-1 ,港台电视RTHK31
 https://cdn.hkdtmb.com/hls/31/index.m3u8
@@ -34,10 +47,23 @@ https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8?sd=10&r
 #EXTINF:-1 ,澳门莲花
 http://nettvpro.live/hls/lotustv.php?zgangd
 
+#EXTINF:-1 ,周星驰-粤语
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
+#EXTINF:-1 ,李连杰
+http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
+#EXTINF:-1 ,历年贺岁大片
+http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
+
+#EXTINF:-1 ,(Movie)斗鱼电影10
+http://tc-tct.douyucdn2.cn/dyliveflv1a/248753rXlbp7Bbqy.flv?wsAuth=4734dc67ea87af7ad33f0ccce071bf05&token=cpn-androidmpro-0-248753-4eb2166313c798ae80999a8ab172c9bc5cc116abd0bb73a0&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1,HBO
+https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,Flix
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star Movies HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="English Movies",Star Movies HD 4K
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+#EXTINF:-1,HBO Family
+http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 
 #EXTINF:-1 ,粤语配音动画
 http://tc-tct.douyucdn2.cn/dyliveflv3/6462389rURBgOTqg.flv?wsAuth=b76e621dcdb2c75dffd394ad22fe9a4b&token=cpn-androidmpro-0-6462389-baf29e49b4d088e7fcdb0fb44704eae362ec89704dedfcc9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
@@ -81,8 +107,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 ,5+體育賽事
 http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 ,Espn
-http://51.79.82.208:16417
+
 #EXTINF:-1 ,Bein Sports
 http://51.79.82.208:16064
 #EXTINF:-1 ,Bein Sports3
