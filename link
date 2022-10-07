@@ -24,9 +24,9 @@ http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum
 #EXTINF:-1 ,ViuTV
 http://iptv12k.com:35461/live/test167/12345/1008.m3u8
 #EXTINF:-1 ,ViuTV
-http://185.207.176.189:8080/channels/tv-96/mpeg.2ts
-#EXTINF:-1 ,ViuTV Six
 http://185.207.176.189:8080/channels/tv-99/mpeg.2ts
+#EXTINF:-1 ,ViuTV Six
+http://185.207.176.189:8080/channels/tv-96/mpeg.2ts
 
 #EXTINF:-1 ,香港開電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
