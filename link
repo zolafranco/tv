@@ -20,11 +20,11 @@ http://51.79.82.208:16024
 http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54249
 
 #EXTINF:-1 ,ViuTV
-http://185.207.176.189:8080/channels/tv-99/mpeg.2ts 
-#EXTINF:-1 ,ViuTV
 http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
 #EXTINF:-1 ,ViuTV
 http://iptv12k.com:35461/live/test167/12345/1008.m3u8
+#EXTINF:-1 ,ViuTV
+http://185.207.176.189:8080/channels/tv-99/mpeg.2ts 
 #EXTINF:-1 ,ViuTV 6
 http://185.207.176.189:8080/channels/tv-96/mpeg.2ts 
 
