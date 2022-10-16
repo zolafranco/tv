@@ -17,8 +17,9 @@ http://185.207.176.189:8080/channels/tv-84/mpeg.2ts
 http://iptv12k.com:35461/live/test167/12345/1020.m3u8
 #EXTINF:-1 ,天映频道
 http://51.79.82.208:16024
-#EXTINF:-1 ,MY: CELESTIAL MOVIES HD
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54249
+#EXTINF:-1 ,MY: Celestial Movies
+http://quality-restream.com:8080/asadmanzur/39e379b23d/174687
+
 #EXTINF:-1 ,ViuTV
 http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
 #EXTINF:-1 ,ViuTV
@@ -43,41 +44,40 @@ https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8?sd=10&r
 #EXTINF:-1 ,澳门莲花
 http://nettvpro.live/hls/lotustv.php?zgangd
 
-#EXTINF:-1 ,MY: HITS HD
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54172
-#EXTINF:-1 ,MY: WARNER TV HD
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54180
-#EXTINF:-1 ,MY: Astro HITS MOVIES HD
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54191
-#EXTINF:-1 ,李连杰
-http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
 #EXTINF:-1 ,(Anime)斗鱼电影2
 http://tc-tct.douyucdn2.cn/dyliveflv3/3637726rQLDdfto7.flv?wsAuth=3e675541d1a2dee3c8810b31cfc7e151&token=cpn-androidmpro-0-3637726-a97a3241d7613834ba7dd070c48fb450a0d714e1165f96ea&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
-#EXTINF:-1 ,(Movie)斗鱼电影10
-http://tc-tct.douyucdn2.cn/dyliveflv1a/248753rXlbp7Bbqy.flv?wsAuth=4734dc67ea87af7ad33f0ccce071bf05&token=cpn-androidmpro-0-248753-4eb2166313c798ae80999a8ab172c9bc5cc116abd0bb73a0&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 #EXTINF:-1,Flix
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1,HBO
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1,HBO Family
 http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-#EXTINF:-1 ,MY: AXN HD
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54201
 
+#EXTINF:-1 ,US: HBO
+http://quality-restream.com:8080/asadmanzur/39e379b23d/2336
+#EXTINF:-1 ,US: HBO 2
+http://quality-restream.com:8080/asadmanzur/39e379b23d/5844
+#EXTINF:-1 ,US: HBO Comedy
+http://quality-restream.com:8080/asadmanzur/39e379b23d/2335
+#EXTINF:-1 ,US: HBO Family
+http://quality-restream.com:8080/asadmanzur/39e379b23d/760
+#EXTINF:-1 ,US: HBO Signature
+http://quality-restream.com:8080/asadmanzur/39e379b23d/6305
+#EXTINF:-1 ,US: HBO Zone
+http://quality-restream.com:8080/asadmanzur/39e379b23d/6328
 
-#EXTINF:-1 ,MY: DISNEY XD HD
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54169
-#EXTINF:-1 ,MY: NICK JR KD
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54257
-#EXTINF:-1 ,(Anime)动漫合集
-http://tc-tct.douyucdn2.cn/dyliveflv3a/7620081rBik9HlSj.flv?wsAuth=29d006a655515d960bcb8318b2aab258&token=cpn-androidmpro-0-7620081-24167f970ad848f9a939a509ed014fc886ce0b1d4e9fcb70&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
-#EXTINF:-1 ,粤语配音动画
-http://tc-tct.douyucdn2.cn/dyliveflv3/6462389rURBgOTqg.flv?wsAuth=b76e621dcdb2c75dffd394ad22fe9a4b&token=cpn-androidmpro-0-6462389-baf29e49b4d088e7fcdb0fb44704eae362ec89704dedfcc9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+#EXTINF:-1 ,MY: Warner TV
+http://quality-restream.com:8080/asadmanzur/39e379b23d/157550
+#EXTINF:-1 ,MY: HITS Movies
+http://quality-restream.com:8080/asadmanzur/39e379b23d/157477
+#EXTINF:-1 ,MY: AXN
+http://quality-restream.com:8080/asadmanzur/39e379b23d/157542
+#EXTINF:-1 ,MY: HGTV Asia
+http://quality-restream.com:8080/asadmanzur/39e379b23d/157553
 
 #EXTINF:-1 ,Hgtv
 http://51.79.82.208:16057
-#EXTINF:-1 ,MY: HGTV HD
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54253
+
 
 #EXTINF:-1,DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -111,18 +111,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Tennis Channel UK
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 ,MY: FOX SPORTS 2 HD
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/52858
-#EXTINF:-1 ,MY: ASTRO SUPERSPORTS 1 FHD
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/52859
-#EXTINF:-1 ,MY: ASTRO SUPERSPORTS 3 FHD
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/52861
-#EXTINF:-1 ,MY: ASTRO SUPERSPORTS 4 FHD
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/52862
-#EXTINF:-1 ,MY: AstroSupersports 5 HD
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54250
-#EXTINF:-1 ,MY: Astro bEIN MAX
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54193
+
 #EXTINF:-1 ,5體育
 http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 ,5+體育賽事
@@ -134,16 +123,20 @@ http://51.79.82.208:16065
 #EXTINF:-1 ,Astro Arena
 http://51.79.82.208:16058
 
-#EXTINF:-1 ,MY: DISCOVERY CHANEL HD
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54256
-#EXTINF:-1 ,MY: NAT GEO ASIA HD
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54173
-#EXTINF:-1 ,MY: Nat Geo Wild HD
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54229
-#EXTINF:-1 ,MY:  ANIMAL PLANET
-http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/52847
-#EXTINF:-1 ,(Animal)野生动物世界
-http://tc-tct.douyucdn2.cn/dyliveflv3a/4837387rlw2Uy8Vt.flv?wsAuth=ec6693a8af71dfa89813234b3802b4b0&token=cpn-androidmpro-0-4837387-8ad81bcd9db6237c66817b9caef6faaf7e92457cc0a38002&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
+#EXTINF:-1 ,US: Tennis Channel
+http://quality-restream.com:8080/asadmanzur/39e379b23d/2275
+#EXTINF:-1 ,MY: beIN Sports
+http://quality-restream.com:8080/asadmanzur/39e379b23d/157561
+#EXTINF:-1 ,MY: Astro SuperSport 1
+http://quality-restream.com:8080/asadmanzur/39e379b23d/146068
+#EXTINF:-1 ,MY: Astro SuperSport 2
+http://quality-restream.com:8080/asadmanzur/39e379b23d/157556
+#EXTINF:-1 ,MY: Astro SuperSport 3
+http://quality-restream.com:8080/asadmanzur/39e379b23d/157557
+#EXTINF:-1 ,MY: Astro SuperSport 4
+http://quality-restream.com:8080/asadmanzur/39e379b23d/157558
+
+
 #EXTINF:-1 ,Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
@@ -155,3 +148,22 @@ http://51.79.82.208:16002
 http://51.79.82.208:16003
 #EXTINF:-1 ,Didik Tv
 http://51.79.82.208:16004
+
+#EXTINF:-1 ,MY: Cartoon Network
+http://quality-restream.com:8080/asadmanzur/39e379b23d/174684
+#EXTINF:-1 ,MY: Disney XD
+http://quality-restream.com:8080/asadmanzur/39e379b23d/157544
+#EXTINF:-1 ,MY: Nick Junior
+http://quality-restream.com:8080/asadmanzur/39e379b23d/157546
+#EXTINF:-1 ,US: Baby TV
+http://quality-restream.com:8080/asadmanzur/39e379b23d/281177
+#EXTINF:-1 ,US: BabyFirst TV
+http://quality-restream.com:8080/asadmanzur/39e379b23d/8591
+#EXTINF:-1 ,US: Disney Channel
+http://quality-restream.com:8080/asadmanzur/39e379b23d/2303
+#EXTINF:-1 ,US: Disney Junior
+http://quality-restream.com:8080/asadmanzur/39e379b23d/8608
+#EXTINF:-1 ,US: Disney XD
+http://quality-restream.com:8080/asadmanzur/39e379b23d/6395
+
+
