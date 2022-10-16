@@ -1,4 +1,6 @@
 #EXTM3U
+#Chinese channels
+
 #EXTINF:-1 ,翡翠华丽
 http://23.237.10.66:16410
 #EXTINF:-1 ,翡翠台
@@ -48,10 +50,6 @@ http://nettvpro.live/hls/lotustv.php?zgangd
 http://tc-tct.douyucdn2.cn/dyliveflv3/3637726rQLDdfto7.flv?wsAuth=3e675541d1a2dee3c8810b31cfc7e151&token=cpn-androidmpro-0-3637726-a97a3241d7613834ba7dd070c48fb450a0d714e1165f96ea&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
 #EXTINF:-1,Flix
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1,HBO
-https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,HBO Family
-http://50.7.220.74:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 
 #EXTINF:-1 ,US: HBO
 http://quality-restream.com:8080/asadmanzur/39e379b23d/2336
