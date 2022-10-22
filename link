@@ -3,6 +3,8 @@
 
 #EXTINF:-1 ,翡翠华丽
 http://23.237.10.66:16410
+#EXTINF:-1 ,Astro AEC
+http://51.79.82.208:16021
 #EXTINF:-1 ,翡翠台
 http://23.237.10.66:16106
 #EXTINF:-1 ,翡翠台
@@ -53,28 +55,6 @@ http://tc-tct.douyucdn2.cn/dyliveflv3/3637726rQLDdfto7.flv?wsAuth=3e675541d1a2de
 #EXTINF:-1,Flix
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 ,US: HBO
-http://quality-restream.com:8080/asadmanzur/39e379b23d/2336
-#EXTINF:-1 ,US: HBO 2
-http://quality-restream.com:8080/asadmanzur/39e379b23d/5844
-#EXTINF:-1 ,US: HBO Comedy
-http://quality-restream.com:8080/asadmanzur/39e379b23d/2335
-#EXTINF:-1 ,US: HBO Family
-http://quality-restream.com:8080/asadmanzur/39e379b23d/760
-#EXTINF:-1 ,US: HBO Signature
-http://quality-restream.com:8080/asadmanzur/39e379b23d/6305
-#EXTINF:-1 ,US: HBO Zone
-http://quality-restream.com:8080/asadmanzur/39e379b23d/6328
-
-#EXTINF:-1 ,MY: Warner TV
-http://quality-restream.com:8080/asadmanzur/39e379b23d/157550
-#EXTINF:-1 ,MY: HITS Movies
-http://quality-restream.com:8080/asadmanzur/39e379b23d/157477
-#EXTINF:-1 ,MY: AXN
-http://quality-restream.com:8080/asadmanzur/39e379b23d/157542
-#EXTINF:-1 ,MY: HGTV Asia
-http://quality-restream.com:8080/asadmanzur/39e379b23d/157553
-
 #EXTINF:-1 ,Hgtv
 http://51.79.82.208:16057
 
@@ -111,8 +91,6 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Tennis Channel UK
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,US: Tennis Channel
-http://quality-restream.com:8080/asadmanzur/39e379b23d/2275
 
 #EXTINF:-1 ,5體育
 http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
@@ -124,18 +102,8 @@ http://51.79.82.208:16064
 http://51.79.82.208:16065
 #EXTINF:-1 ,Astro Arena
 http://51.79.82.208:16058
-
-#EXTINF:-1 ,MY: beIN Sports
-http://quality-restream.com:8080/asadmanzur/39e379b23d/157561
-#EXTINF:-1 ,MY: Astro SuperSport 1
-http://quality-restream.com:8080/asadmanzur/39e379b23d/146068
-#EXTINF:-1 ,MY: Astro SuperSport 2
-http://quality-restream.com:8080/asadmanzur/39e379b23d/157556
-#EXTINF:-1 ,MY: Astro SuperSport 3
-http://quality-restream.com:8080/asadmanzur/39e379b23d/157557
-#EXTINF:-1 ,MY: Astro SuperSport 4
-http://quality-restream.com:8080/asadmanzur/39e379b23d/157558
-
+#EXTINF:-1 ,ESPN
+http://51.79.82.208:16417
 
 #EXTINF:-1 ,Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -148,22 +116,5 @@ http://51.79.82.208:16002
 http://51.79.82.208:16003
 #EXTINF:-1 ,Didik Tv
 http://51.79.82.208:16004
-
-#EXTINF:-1 ,MY: Cartoon Network
-http://quality-restream.com:8080/asadmanzur/39e379b23d/174684
-#EXTINF:-1 ,MY: Disney XD
-http://quality-restream.com:8080/asadmanzur/39e379b23d/157544
-#EXTINF:-1 ,MY: Nick Junior
-http://quality-restream.com:8080/asadmanzur/39e379b23d/157546
-#EXTINF:-1 ,US: Baby TV
-http://quality-restream.com:8080/asadmanzur/39e379b23d/281177
-#EXTINF:-1 ,US: BabyFirst TV
-http://quality-restream.com:8080/asadmanzur/39e379b23d/8591
-#EXTINF:-1 ,US: Disney Channel
-http://quality-restream.com:8080/asadmanzur/39e379b23d/2303
-#EXTINF:-1 ,US: Disney Junior
-http://quality-restream.com:8080/asadmanzur/39e379b23d/8608
-#EXTINF:-1 ,US: Disney XD
-http://quality-restream.com:8080/asadmanzur/39e379b23d/6395
 
 
