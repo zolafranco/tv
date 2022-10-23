@@ -7,12 +7,13 @@ http://iptv12k.com:35461/live/test167/12345/1021.m3u8
 http://23.237.10.66:16410
 #EXTINF:-1 ,Astro AEC
 http://51.79.82.208:16021
-#EXTINF:-1 ,翡翠台
-http://23.237.10.66:16106
+
 #EXTINF:-1 ,翡翠台
 http://185.207.176.189:8080/channels/tv-81/mpeg.2ts
 #EXTINF:-1 ,翡翠台
 http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
+#EXTINF:-1 ,翡翠台
+http://23.237.10.66:16106
 #EXTINF:-1 ,TVB J2
 http://iptv12k.com:35461/live/test167/12345/1006.m3u8
 #EXTINF:-1 ,TVB Pearl
@@ -20,8 +21,7 @@ http://iptv12k.com:35461/live/test167/12345/1020.m3u8
 
 #EXTINF:-1 ,天映频道
 http://51.79.82.208:16024
-#EXTINF:-1 ,MY: Celestial Movies
-http://quality-restream.com:8080/asadmanzur/39e379b23d/174687
+
 
 #EXTINF:-1 ,ViuTV
 http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
@@ -30,8 +30,7 @@ http://iptv12k.com:35461/live/test167/12345/1008.m3u8
 #EXTINF:-1 ,ViuTV
 http://185.207.176.189:8080/channels/tv-99/mpeg.2ts
 #EXTINF:-1 ,ViuTV Six
-http://185.207.176.189:8080/channels/tv-96/mpeg.2ts
-
+http://iptv12k.com:35461/live/test167/12345/1007.m3u8
 #EXTINF:-1 ,香港開電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 ,香港開電視
