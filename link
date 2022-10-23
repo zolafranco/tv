@@ -2,6 +2,8 @@
 #Chinese channels
 
 #EXTINF:-1 ,翡翠华丽
+http://iptv12k.com:35461/live/test167/12345/1021.m3u8
+#EXTINF:-1 ,翡翠华丽
 http://23.237.10.66:16410
 #EXTINF:-1 ,Astro AEC
 http://51.79.82.208:16021
@@ -12,13 +14,10 @@ http://185.207.176.189:8080/channels/tv-81/mpeg.2ts
 #EXTINF:-1 ,翡翠台
 http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 #EXTINF:-1 ,TVB J2
-http://185.207.176.189:8080/channels/tv-82/mpeg.2ts
-#EXTINF:-1 ,TVB J2
 http://iptv12k.com:35461/live/test167/12345/1006.m3u8
 #EXTINF:-1 ,TVB Pearl
-http://185.207.176.189:8080/channels/tv-84/mpeg.2ts
-#EXTINF:-1 ,TVB Pearl
 http://iptv12k.com:35461/live/test167/12345/1020.m3u8
+
 #EXTINF:-1 ,天映频道
 http://51.79.82.208:16024
 #EXTINF:-1 ,MY: Celestial Movies
@@ -54,6 +53,16 @@ http://tc-tct.douyucdn2.cn/dyliveflv3/3637726rQLDdfto7.flv?wsAuth=3e675541d1a2de
 #English
 #EXTINF:-1,Flix
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1,WarnerTV
+http://iptv12k.com:35461/live/test167/12345/1216.m3u8
+#EXTINF:-1,HBO
+http://iptv12k.com:35461/live/test167/12345/1266.m3u8
+#EXTINF:-1,HBO家庭
+http://iptv12k.com:35461/live/test167/12345/1265.m3u8
+#EXTINF:-1,HBO强档
+http://iptv12k.com:35461/live/test167/12345/1264.m3u8
+#EXTINF:-1,HBO原创
+http://iptv12k.com:35461/live/test167/12345/1263.m3u8
 
 #EXTINF:-1 ,Hgtv
 http://51.79.82.208:16057
@@ -96,6 +105,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
 #EXTINF:-1 ,5+體育賽事
 http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
+
 #EXTINF:-1 ,Bein Sports
 http://51.79.82.208:16064
 #EXTINF:-1 ,Bein Sports3
