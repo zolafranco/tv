@@ -1,26 +1,6 @@
 #EXTM3U
-#test
-#EXTINF:-1 ,翡翠台[1920x1080][20230105]
-http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
-#EXTINF:-1 ,翡翠台@@1[1920x1080][h264xaac][geo-limited]
-http://baidu.douyincdn.freetvtv.com/tvbjade/m2.m3u8?blog.ntnas.top
 #EXTINF:-1 ,翡翠台[1920x1080][h264xaac][geo-limited]
 http://r.jdshipin.com/62WM7
-#EXTINF:-1 ,明珠台@@1[1920x1080][h264xaac][geo-limited]
-http://radius.8866.org:800/hls/84/index.m3u8
-#EXTINF:-1 ,ViuTV[1920x1080][h264xaac][geo-limited]
-http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8?blog.ntnas.top
-#EXTINF:-1 ,ViuTV@@1[1920x1080][h264xaac][geo-limited]
-http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
-#EXTINF:-1 ,明珠台@@2[1920x1080][h264xaac][geo-limited]
-http://shazui.8866.org:800/hls/84/index.m3u8
-#EXTINF:-1 ,ViuTV@@2[1920x1080][h264xaac][geo-limited]
-http://shazui.8866.org:800/hls/86/index.m3u8
-#EXTINF:-1 ,VIUTV6@@1[1920x1080][h264xaac][geo-limited]
-http://shazui.8866.org:800/hls/85/index.m3u8
-#EXTINF:-1 ,VIUTV6[1920x1080][h264xaac][geo-limited]
-http://radius.8866.org:800/hls/85/index.m3u8
-
 
 #EXTINF:-1 ,翡翠台
 https://cdn.hklive.tv/xxxx/81/index.m3u8
