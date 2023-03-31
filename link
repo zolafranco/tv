@@ -6,6 +6,8 @@ XTINF:-1 ,翡翠台
 https://cdn.hklive.tv/xxxx/81/index.m3u8
 XTINF:-1 ,翡翠台
 http://2022.stream-link.org/playlist/tvb_jade
+#EXTINF:-1 ,翡翠台
+http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941619
 XTINF:-1 ,J2台
 https://cdn.hklive.tv/xxxx/82/index.m3u8
 XTINF:-1 ,TVB Pearl
