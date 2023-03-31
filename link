@@ -1,33 +1,20 @@
 #EXTM3U
 #Chinese channels （long term)
-#EXTINF:-1 ,翡翠台
-http://23.237.10.66:16106
-#EXTINF:-1 ,翡翠华丽
+XTINF:-1 ,翡翠华丽
 http://23.237.10.66:16410
-#EXTINF:-1 ,翡翠台
-http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941619
-#EXTINF:-1 ,翡翠台
+XTINF:-1 ,翡翠台
 https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 ,翡翠台[1920x1080][h264xaac][geo-limited]
-http://r.jdshipin.com/62WM7
-#EXTINF:-1 ,翡翠台
+XTINF:-1 ,翡翠台
 http://2022.stream-link.org/playlist/tvb_jade
-#EXTINF:-1 ,TVB J2
-http://198.16.64.10:8278/j2_twn/playlist.m3u8?tid=MA8A1176878411768784&ct=19225&tsum=fea41bb592165942b9971148376f8b70
-#EXTINF:-1 ,J2台
+XTINF:-1 ,J2台
 https://cdn.hklive.tv/xxxx/82/index.m3u8
-#EXTINF:-1 ,J2台
-http://baidu.douyincdn.freetvtv.com/j2/index.m3u8
-#EXTINF:-1 ,TVB Pearl
+XTINF:-1 ,TVB Pearl
 http://iptv12k.com:35461/live/test167/12345/1020.m3u8
 #EXTINF:-1 ,TVB Pearl
 http://baidu.douyincdn.freetvtv.com/peal/m2.m3u8
 #EXTINF:-1 ,明珠台
 https://cdn.hklive.tv/xxxx/84/index.m3u8
-#EXTINF:-1 ,TVB星河频道
-http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941620
-
-#EXTINF:-1 ,天映频道
+EXTINF:-1 ,天映频道
 http://51.79.82.208:16024
 
 
@@ -61,9 +48,7 @@ http://iptv12k.com:35461/live/test167/12345/1216.m3u8
 http://208.115.225.174:14132
 #EXTINF:-1,HBO
 http://iptv12k.com:35461/live/test167/12345/1266.m3u8
-#EXTINF:-1,HBO家庭
-http://iptv12k.com:35461/live/test167/12345/1265.m3u8
-#EXTINF:-1,HBO强档
+XTINF:-1,HBO强档
 http://iptv12k.com:35461/live/test167/12345/1264.m3u8
 #EXTINF:-1,HBO原创
 http://iptv12k.com:35461/live/test167/12345/1263.m3u8
@@ -73,10 +58,6 @@ http://208.115.225.174:14165
 http://208.115.225.174:14140
 #EXTINF:-1 ,HBO signature
 http://208.115.225.174:14160
-
-
-#EXTINF:-1 ,Hgtv
-http://51.79.82.208:16057
 
 
 #EXTINF:-1,DW English
@@ -112,17 +93,8 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Tennis Channel UK
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 ,5體育
-http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 ,5+體育賽事
-http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
-
 #EXTINF:-1 ,Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-#EXTINF:-1 ,八度空间
-http://51.79.82.208:16005
-#EXTINF:-1 ,Didik Tv
-http://51.79.82.208:16004
 
 
