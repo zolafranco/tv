@@ -10,13 +10,8 @@ http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=
 https://cdn.hklive.tv/xxxx/82/index.m3u8
 #EXTINF:-1 ,TVB Pearl
 http://iptv12k.com:35461/live/test167/12345/1020.m3u8
-#EXTINF:-1 ,TVB Pearl
-http://baidu.douyincdn.freetvtv.com/peal/m2.m3u8
 #EXTINF:-1 ,明珠台
 https://cdn.hklive.tv/xxxx/84/index.m3u8
-#EXTINF:-1 ,天映频道
-http://51.79.82.208:16024
-
 
 #EXTINF:-1 ,ViuTV
 http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
@@ -47,14 +42,9 @@ XTINF:-1,HBO强档
 http://iptv12k.com:35461/live/test167/12345/1264.m3u8
 #EXTINF:-1,HBO原创
 http://iptv12k.com:35461/live/test167/12345/1263.m3u8
-#EXTINF:-1 ,HBO signature
-http://208.115.225.174:14160
-
 
 #EXTINF:-1,DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 ,Entrepreneur (720p)
-https://a.jsrdn.com/broadcast/7582ed85f7/+0000/c.m3u8
 
 #Singapore
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="Singpura",Channel 5
