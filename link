@@ -1,35 +1,42 @@
 #EXTM3U
-#Chinese channels （long term)
-#EXTINF:-1 ,翡翠华丽
-http://23.237.10.66:16410
-#EXTINF:-1 ,翡翠台
-https://cdn.hklive.tv/xxxx/81/index.m3u8
+#Chinese channels 
 #EXTINF:-1 ,翡翠台
 http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941619
-#EXTINF:-1 ,J2台
-https://cdn.hklive.tv/xxxx/82/index.m3u8
+#EXTINF:-1 ,翡翠台
+http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
+#EXTINF:-1 ,TVB J2
+http://r.jdshipin.com/Nr5jq
+#EXTINF:-1 ,TVB J2
+http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=ME0E4382171043821710&ct=19237&tsum=6f10351124a4eb90780b2f84b2c4d349
+
 #EXTINF:-1 ,TVB Pearl
 http://iptv12k.com:35461/live/test167/12345/1020.m3u8
 #EXTINF:-1 ,明珠台
 https://cdn.hklive.tv/xxxx/84/index.m3u8
 
 #EXTINF:-1 ,ViuTV
-http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
-#EXTINF:-1 ,ViuTV
-http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
-#EXTINF:-1 ,ViuTV
 http://iptv12k.com:35461/live/test167/12345/1008.m3u8
 #EXTINF:-1 ,ViuTV
-http://185.207.176.189:8080/channels/tv-99/mpeg.2ts
+http://r.jdshipin.com/vSJvl
+
 #EXTINF:-1 ,ViuTV Six
 http://iptv12k.com:35461/live/test167/12345/1007.m3u8
+#EXTINF:-1 ,VIUTV6
+http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
+#EXTINF:-1 ,ViuTV6
+http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
+
 #EXTINF:-1 ,香港開電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 ,香港開電視
 http://livetv.dnsfor.me:80/channel.9.m3u8
 #EXTINF:-1 ,香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 ,天映頻道
+http://198.16.100.90:8278/Celestialindo/playlist.m3u8?tid=MA5A2795215627952156&ct=19254&tsum=5af1cfa380a0d40379beb469d60702ab
 
+#EXTINF:-1 ,澳门Macau
+http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 #EXTINF:-1 ,澳门莲花
 http://nettvpro.live/hls/lotustv.php?zgangd
 
@@ -40,8 +47,36 @@ http://iptv12k.com:35461/live/test167/12345/1216.m3u8
 http://iptv12k.com:35461/live/test167/12345/1266.m3u8
 XTINF:-1,HBO强档
 http://iptv12k.com:35461/live/test167/12345/1264.m3u8
+#EXTINF:-1 ,HBO Hits
+http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+
 #EXTINF:-1,HBO原创
 http://iptv12k.com:35461/live/test167/12345/1263.m3u8
+
+#EXTINF:-1 ,HBO
+http://61.221.81.93:8078/hls/23/80/hbo.m3u8
+
+#EXTINF:-1 ,HBO Family
+http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+#EXTINF:-1 ,HBO Family
+http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+#EXTINF:-1 ,HBO Family
+http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+#EXTINF:-1 ,HBO Family
+http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
+#EXTINF:-1 ,HBO Family
+http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+
+#EXTINF:-1 ,HBO Signature
+http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+#EXTINF:-1 ,HBO Signature
+http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+#EXTINF:-1 ,HBO Signature
+http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+#EXTINF:-1 ,HBO Signature
+http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+#EXTINF:-1 ,HBO Signature
+http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 
 #EXTINF:-1,DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
