@@ -1,6 +1,9 @@
 #EXTM3U
 #Chinese channels 
 #EXTINF:-1 ,翡翠台
+http://sc2022.stream-link.org/tv2306.php?id=h01
+
+#EXTINF:-1 ,翡翠台
 http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941619
 #EXTINF:-1 ,翡翠台
 http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
@@ -26,6 +29,8 @@ http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=1
 #EXTINF:-1 ,ViuTV6
 http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
 
+#EXTINF:-1 ,香港開電視
+http://sc2022.stream-link.org/tv2306.php?id=h13
 #EXTINF:-1 ,香港開電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 ,香港開電視
