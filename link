@@ -30,8 +30,6 @@ http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=1
 http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
 
 #EXTINF:-1 ,香港開電視
-http://sc2022.stream-link.org/tv2306.php?id=h13
-#EXTINF:-1 ,香港開電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 ,香港開電視
 http://livetv.dnsfor.me:80/channel.9.m3u8
@@ -46,8 +44,6 @@ http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 http://nettvpro.live/hls/lotustv.php?zgangd
 
 #English
-#EXTINF:-1,WarnerTV
-http://iptv12k.com:35461/live/test167/12345/1216.m3u8
 #EXTINF:-1,HBO
 http://iptv12k.com:35461/live/test167/12345/1266.m3u8
 XTINF:-1,HBO强档
