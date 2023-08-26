@@ -1,52 +1,70 @@
 #EXTM3U
 #Chinese channels 
 #EXTINF:-1 ,翡翠台
+https://sc2022.stream-link.org/tv2306.php?id=h02
+
+#EXTINF:-1 ,翡翠台
 http://sc2022.stream-link.org/tv2306.php?id=h01
 
 #EXTINF:-1 ,翡翠台
+https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
+
 http://185.243.7.13/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&play_token=1pLS8RVt8V&stream=941619
 #EXTINF:-1 ,翡翠台
 http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
 #EXTINF:-1 ,TVB J2
 http://r.jdshipin.com/Nr5jq
 #EXTINF:-1 ,TVB J2
+https://sc2022.stream-link.org/tv2306.php?id=h03
+
 http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=ME0E4382171043821710&ct=19237&tsum=6f10351124a4eb90780b2f84b2c4d349
 
 #EXTINF:-1 ,TVB Pearl
-http://iptv12k.com:35461/live/test167/12345/1020.m3u8
+ttps://epg.pw/stream/19ea47ed31c13572912305ac40dab588b69159455bb51a55f520a054826c951c.m3u8
 #EXTINF:-1 ,明珠台
 https://cdn.hklive.tv/xxxx/84/index.m3u8
 
 #EXTINF:-1 ,ViuTV
-http://iptv12k.com:35461/live/test167/12345/1008.m3u8
+https://epg.pw/stream/e75064964d8deac20e6e137a40e2c59b10104b50986230c89c0bf57a58887a3e.m3u8
 #EXTINF:-1 ,ViuTV
 http://r.jdshipin.com/vSJvl
 
 #EXTINF:-1 ,ViuTV Six
-http://iptv12k.com:35461/live/test167/12345/1007.m3u8
+https://epg.pw/stream/bb59f78bb7727ff9807a49dd25e65e86375466e8334cd0d08e7de7ca0995f29a.m3u8
 #EXTINF:-1 ,VIUTV6
 http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
 #EXTINF:-1 ,ViuTV6
 http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
 
 #EXTINF:-1 ,香港開電視
+https://epg.pw/stream/c267fcf607387ff9dcdb36595b6090661f435b41762cd89a56f1f1a3ea5ce2ad.m3u8
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 ,香港開電視
+https://sc2022.stream-link.org/tv2306.php?id=h15
 http://livetv.dnsfor.me:80/channel.9.m3u8
 #EXTINF:-1 ,香港開電視
+https://sc2022.stream-link.org/tv2306.php?id=h16
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 ,天映頻道
 http://198.16.100.90:8278/Celestialindo/playlist.m3u8?tid=MA5A2795215627952156&ct=19254&tsum=5af1cfa380a0d40379beb469d60702ab
 
+#EXTINF:-1 ,澳視澳門
+https://sc2022.stream-link.org/tv2306.php?id=h08
+
 #EXTINF:-1 ,澳门Macau
 http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+
+
 #EXTINF:-1 ,澳门莲花
+https://sc2022.stream-link.org/tv2306.php?id=h21
 http://nettvpro.live/hls/lotustv.php?zgangd
 
 #English
+#EXTINF:-1,Channel 5 (SG)
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=941615
 #EXTINF:-1,HBO
 http://iptv12k.com:35461/live/test167/12345/1266.m3u8
-XTINF:-1,HBO强档
+#EXTINF:-1,HBO强档
 http://iptv12k.com:35461/live/test167/12345/1264.m3u8
 #EXTINF:-1 ,HBO Hits
 http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
@@ -56,7 +74,8 @@ http://iptv12k.com:35461/live/test167/12345/1263.m3u8
 
 #EXTINF:-1 ,HBO
 http://61.221.81.93:8078/hls/23/80/hbo.m3u8
-
+#EXTINF:-1 ,HBO Family
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=45550
 #EXTINF:-1 ,HBO Family
 http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 #EXTINF:-1 ,HBO Family
