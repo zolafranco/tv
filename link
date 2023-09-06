@@ -149,6 +149,8 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&s
 
 
 #Sports
+#EXTINF:-1 ,ESPN
+http://143.244.60.30/ESPN/index.m3u8
 #EXTINF:-1 ,博斯网球
 http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=m60f4fd9da4d1&ct=18335&tsum=4d026bfb332da29886aa772f2e149edb
 #EXTINF:-1 ,博斯网球
