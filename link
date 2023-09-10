@@ -18,12 +18,16 @@ https://sc2022.stream-link.org/tv2306.php?id=h03
 https://epg.pw/stream/19ea47ed31c13572912305ac40dab588b69159455bb51a55f520a054826c951c.m3u8
 #EXTINF:-1 ,明珠台
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
-#https://cdn.hklive.tv/xxxx/84/index.m3u8
+#EXTINF:-1 ,TVB Pearl
+http://107.167.12.58:27347/livehttpplay?channel_id=20125
+
 
 #EXTINF:-1 ,ViuTV
 https://epg.pw/stream/e75064964d8deac20e6e137a40e2c59b10104b50986230c89c0bf57a58887a3e.m3u8
 #EXTINF:-1 ,ViuTV
 http://r.jdshipin.com/vSJvl
+#EXTINF:-1 ,ViuTV
+http://107.167.12.58:27347/livehttpplay?channel_id=20131
 
 #EXTINF:-1 ,ViuTV Six
 https://epg.pw/stream/bb59f78bb7727ff9807a49dd25e65e86375466e8334cd0d08e7de7ca0995f29a.m3u8
@@ -66,6 +70,10 @@ http://sc2022.stream-link.org/tv2306.php?id=h14
 http://198.16.100.90:8278/Axn/playlist.m3u8?tid=MF5F8488555684885556&ct=19254&tsum=b053d03f18972fd57458dea9ae82c0aa
 #EXTINF:-1,AXN Taiwan
 http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
+
+#EXTINF:-1 ,HBO HD
+http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
+
 #EXTINF:-1 ,HBO Hits
 http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
 
