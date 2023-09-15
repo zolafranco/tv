@@ -4,52 +4,37 @@
 https://sc2022.stream-link.org/tv2306.php?id=h02
 #EXTINF:-1 ,翡翠台
 http://sc2022.stream-link.org/tv2306.php?id=h01
-#http://sc2022.stream-link.org/tv2306.php?id=h06
-#EXTINF:-1 ,翡翠台
-https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
 
 #EXTINF:-1 ,TVB J2
 http://r.jdshipin.com/Nr5jq
 #EXTINF:-1 ,TVB J2
 https://sc2022.stream-link.org/tv2306.php?id=h03
-#http://50.7.238.114:8278/j2_twn/playlist.m3u8?tid=ME0E4382171043821710&ct=19237&tsum=6f10351124a4eb90780b2f84b2c4d349
 
 #EXTINF:-1 ,TVB Pearl
-https://epg.pw/stream/19ea47ed31c13572912305ac40dab588b69159455bb51a55f520a054826c951c.m3u8
-#EXTINF:-1 ,明珠台
 http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 #EXTINF:-1 ,TVB Pearl
 http://107.167.12.58:27347/livehttpplay?channel_id=20125
 
 
 #EXTINF:-1 ,ViuTV
-https://epg.pw/stream/e75064964d8deac20e6e137a40e2c59b10104b50986230c89c0bf57a58887a3e.m3u8
+http://107.167.12.58:27347/livehttpplay?channel_id=30033
 #EXTINF:-1 ,ViuTV
 http://r.jdshipin.com/vSJvl
 #EXTINF:-1 ,ViuTV
 http://107.167.12.58:27347/livehttpplay?channel_id=20131
 
-#EXTINF:-1 ,ViuTV Six
-https://epg.pw/stream/bb59f78bb7727ff9807a49dd25e65e86375466e8334cd0d08e7de7ca0995f29a.m3u8
 #EXTINF:-1 ,VIUTV6
 http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
 #EXTINF:-1 ,ViuTV6
 http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
 
 #EXTINF:-1 ,香港開電視
-https://epg.pw/stream/c267fcf607387ff9dcdb36595b6090661f435b41762cd89a56f1f1a3ea5ce2ad.m3u8
-#EXTINF:-1 ,香港開電視
 https://sc2022.stream-link.org/tv2306.php?id=h15
 #EXTINF:-1 ,香港開電視
 https://sc2022.stream-link.org/tv2306.php?id=h16
 
-#http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#http://livetv.dnsfor.me:80/channel.9.m3u8
-#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-
 #EXTINF:-1 ,天映頻道
 http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=941618&extension=ts
-http://198.16.100.90:8278/Celestialindo/playlist.m3u8?tid=MA5A2795215627952156&ct=19254&tsum=5af1cfa380a0d40379beb469d60702ab
 
 #EXTINF:-1 ,澳視澳門
 https://sc2022.stream-link.org/tv2306.php?id=h08
@@ -57,36 +42,26 @@ https://sc2022.stream-link.org/tv2306.php?id=h08
 #EXTINF:-1 ,澳门Macau
 http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 
-
 #EXTINF:-1 ,澳门莲花
 https://sc2022.stream-link.org/tv2306.php?id=h21
-http://nettvpro.live/hls/lotustv.php?zgangd
 
 #English
 #EXTINF:-1,HKIBC
 http://sc2022.stream-link.org/tv2306.php?id=h14
 
 #EXTINF:-1,AXN Indonesia  
-http://198.16.100.90:8278/Axn/playlist.m3u8?tid=MF5F8488555684885556&ct=19254&tsum=b053d03f18972fd57458dea9ae82c0aa
+#http://198.16.100.90:8278/Axn/playlist.m3u8?tid=MF5F8488555684885556&ct=19254&tsum=b053d03f18972fd57458dea9ae82c0aa
 #EXTINF:-1,AXN Taiwan
-http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
+#http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
 
 #EXTINF:-1 ,HBO HD
-http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
 
 #EXTINF:-1 ,HBO Hits
-http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
 
 
 #EXTINF:-1 ,HBO Family
-http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
-#EXTINF:-1 ,HBO Family
-http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 
 #EXTINF:-1 ,HBO Signature
-http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-#EXTINF:-1 ,HBO Signature
-http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
 
 #EXTINF:-1,DW English
 https://sc2022.stream-link.org/tv2306.php?id=e12
@@ -148,12 +123,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 
 
 #EXTINF:-1 ,HGTV
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=571202
-#EXTINF:-1 ,HGTV
-https://epg.pw/stream/c4587e1e152cce86579e78c929186e83630be6245011e5e4f05f2e5cf20e96f7.ctv
 
 #EXTINF:-1 ,Disney XD
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=91833
 
 
 #Sports
