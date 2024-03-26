@@ -1,60 +1,56 @@
 #EXTM3U
 #Chinese channels 
 #EXTINF:-1 ,翡翠台
-https://sc2022.stream-link.org/tv2306.php?id=h02
+https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
 #EXTINF:-1 ,翡翠台
-http://sc2022.stream-link.org/tv2306.php?id=h01
+https://z88.ubtvfans.com/live/rx1/30/fb664922e2e0f516cde26b1d27a01331/index.m3u8
 #EXTINF:-1 ,翡翠台
-http://107.167.12.58:27347/livehttpplay?channel_id=20127
+#http://107.167.12.58:27347/livehttpplay?channel_id=20127
 
 #EXTINF:-1 ,TVB J2
-http://r.jdshipin.com/Nr5jq
+#http://r.jdshipin.com/Nr5jq
 #EXTINF:-1 ,TVB J2
-http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
+#http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxHxPuwYBkq3c9qPtWNUkGtg/ts
 #EXTINF:-1 ,TVB J2
-https://sc2022.stream-link.org/tv2306.php?id=h03
+#https://sc2022.stream-link.org/tv2306.php?id=h03
 
+#EXTINF:-1 ,TVB Pearl
+https://z88.ubtvfans.com/live/rx1/2437/43f3e7d06eeb53f3057cb2780fd11a50/index.m3u8
+#EXTINF:-1 ,TVB Pearl
+https://z88.ubtvfans.com/live/rx1/2437/60f6d630f969e14ada0c4ff4e424733e/index.m3u8
 #EXTINF:-1 ,TVB Pearl
 http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv
-#EXTINF:-1 ,TVB Pearl
-http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
 
 
+#EXTINF:-1 ,ViuTV
+https://z88.ubtvfans.com/live/rx1/2334/fba30fd4af785fb0451bcccfdf475e79/index.m3u8
+#EXTINF:-1 ,ViuTV
+https://z88.ubtvfans.com/live/rx1/72/67ad6810b074a91c73426c59e36738d6/index.m3u8
 #EXTINF:-1 ,ViuTV
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhtjjnjjdldjlujobnmjjhnbbmdjlpthjyjvjutv.flv
-#EXTINF:-1 ,ViuTV
-http://r.jdshipin.com/vSJvl
-#EXTINF:-1 ,ViuTV
-http://107.167.12.58:27347/livehttpplay?channel_id=20131
 
 #EXTINF:-1 ,ViuTV6
-http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjptdjbehjtyhbvhfjcvsjjfyjtvjutvsjx.flv
+https://z88.ubtvfans.com/live/rx1/176/32178352c5da72e5fd918a653c6fc9ae/index.m3u8
 #EXTINF:-1 ,VIUTV6
-http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MC6C1412376614123766&ct=19225&tsum=f4273425d435057616c3380b9e2a0287
-#EXTINF:-1 ,ViuTV6
-http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
+http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjptdjbehjtyhbvhfjcvsjjfyjtvjutvsjx.flv
 
+#EXTINF:-1 ,香港開電視
+https://z88.ubtvfans.com/live/rx1/401/2ab2599cd56cdf8db12d3cbd9fc24006/index.m3u8
 #EXTINF:-1 ,香港開電視
 http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdyjjdjdjhdnowspjjlfjhjtycxjfjjojtspjjmehoytv.flv
-#EXTINF:-1 ,香港開電視
-https://sc2022.stream-link.org/tv2306.php?id=h16
 
-#EXTINF:-1 tvg-id="9999" tvg-name="天映頻道" tvg-logo="https://www.stream-link.org/tv_logo/astro_celestital_movies.png" group-title="Astro",天映頻道
-https://sc2022.stream-link.org/tv2306.php?id=h24
 
 #EXTINF:-1 ,澳視澳門
-https://sc2022.stream-link.org/tv2306.php?id=h08
+https://z88.ubtvfans.com/live/rx1/23/2461dc775e41aa30e9d1e941702fc5b7/index.m3u8
 #EXTINF:-1 ,澳視澳門
-http://61.244.22.5/ch1/ch1.live/playlist.m3u8
+http://61.244.22.5/ch3/_definst_/ch3.live/chunklist_w1282919434.m3u8
 
 #EXTINF:-1 ,澳门Macau
-http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+#http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
 
 #EXTINF:-1 ,澳门莲花
-https://sc2022.stream-link.org/tv2306.php?id=h21
+https://z88.ubtvfans.com/live/rx1/70/4f5d1beff287c563c64c30e7f7fc5729/index.m3u8
 
-#EXTINF:-1 ,澳门莲花 test
-https://live.mana2.my/Tv5/manifest.mpd
 
 #English
 #EXTINF:-1,AXN Indonesia  
