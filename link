@@ -1,18 +1,19 @@
 #EXTM3U
 #Chinese channels 
 #EXTINF:-1 ,翡翠台
-https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=fct
 #EXTINF:-1 ,翡翠台
-https://z88.ubtvfans.com/live/rx1/30/fb664922e2e0f516cde26b1d27a01331/index.m3u8
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 ,翡翠台
-#http://107.167.12.58:27347/livehttpplay?channel_id=20127
+http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+#EXTINF:-1 ,翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 
 #EXTINF:-1 ,TVB Pearl
-http://1.65.195.85:9981/stream/channelid/1803382046?ticket=81e3b97df2839ef49852fe90ddedf3533469924d&profile=pass
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 ,TVB Pearl
-https://z88.ubtvfans.com/live/rx1/2437/43f3e7d06eeb53f3057cb2780fd11a50/index.m3u8
 #EXTINF:-1 ,TVB Pearl
-http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv
+
 
 #EXTINF:-1 ,ViuTV
 https://z88.ubtvfans.com/live/rx1/2334/fba30fd4af785fb0451bcccfdf475e79/index.m3u8
@@ -27,11 +28,15 @@ https://z88.ubtvfans.com/live/rx1/176/32178352c5da72e5fd918a653c6fc9ae/index.m3u
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjptdjbehjtyhbvhfjcvsjjfyjtvjutvsjx.flv
 
 #EXTINF:-1 ,香港開電視
-http://51.89.21.73:27347/livehttpplay?channel_id=20152
-https://z88.ubtvfans.com/live/rx1/401/2ab2599cd56cdf8db12d3cbd9fc24006/index.m3u8
-#EXTINF:-1 ,香港開電視
-http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdyjjdjdjhdnowspjjlfjhjtycxjfjjojtspjjmehoytv.flv
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 
+#EXTINF:-1 ,香港開電視
+http://cdn.132.us.kg/live/hoy/stream.m3u8
+
+#EXTINF:-1 ,美亚电影
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+#EXTINF:-1 ,美亚电影
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 
 #EXTINF:-1 ,澳視澳門
 https://z88.ubtvfans.com/live/rx1/23/2461dc775e41aa30e9d1e941702fc5b7/index.m3u8
