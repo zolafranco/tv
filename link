@@ -1,6 +1,7 @@
 #EXTM3U
 #Chinese channels 
 #EXTINF:-1 ,翡翠台
+http://php.jdshipin.com/TVOD/iptv.php?id=huali
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
 #EXTINF:-1 ,翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
@@ -12,6 +13,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 ,TVB Pearl
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 ,TVB Pearl
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 #EXTINF:-1 ,TVB Pearl
 
 
@@ -29,7 +31,8 @@ http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjptdjbehjtyhbvhfjcvsjjfyjtvju
 
 #EXTINF:-1 ,香港開電視
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-
+#EXTINF:-1 ,香港開電視
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 #EXTINF:-1 ,香港開電視
 http://cdn.132.us.kg/live/hoy/stream.m3u8
 
