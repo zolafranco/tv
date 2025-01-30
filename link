@@ -9,6 +9,9 @@ http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 #EXTINF:-1 ,翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+#EXTINF:-1 ,TVB Plus
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+
 
 #EXTINF:-1 ,TVB Pearl
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
@@ -41,7 +44,8 @@ https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 ,澳门莲花
 
 #English
-#EXTINF:-1,AXN Indonesia  
+#EXTINF:-1,AXN
+http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 #EXTINF:-1,AXN Taiwan
 #EXTINF:-1,AXN Taiwan
 
