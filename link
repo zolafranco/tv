@@ -24,6 +24,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 ,香港開電視
 http://cdn.132.us.kg/live/hoy/stream.m3u8
 #EXTINF:-1 ,香港開電視
+https://cdn.163189.xyz/live/hoy/stream.m3u8
+#EXTINF:-1 ,香港開電視
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 
 #EXTINF:-1 ,美亚电影
@@ -40,6 +42,10 @@ http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
 #EXTINF:-1 ,澳視澳門
 https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 ,澳視澳門
+https://cdn.163189.xyz/live/asam/stream.m3u8
+#EXTINF:-1 ,澳视卫星
+https://cdn.163189.xyz/live/as/stream.m3u8
 #EXTINF:-1 ,澳门Macau
 #EXTINF:-1 ,澳门莲花
 
