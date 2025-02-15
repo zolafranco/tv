@@ -47,7 +47,9 @@ http://cdn.132.us.kg/live/asam/stream.m3u8
 https://cdn.163189.xyz/live/asam/stream.m3u8
 #EXTINF:-1 ,澳视卫星
 https://cdn.163189.xyz/live/as/stream.m3u8
-#EXTINF:-1 ,澳门Macau
+#EXTINF:-1 ,澳视卫星
+http://cdn.132.us.kg/live/as/stream.m3u8
+
 #EXTINF:-1 ,澳门莲花
 
 #English
