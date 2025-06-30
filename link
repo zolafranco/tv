@@ -24,11 +24,14 @@ https://cdn.163189.xyz/live/hoy/stream.m3u8
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 
 #EXTINF:-1 ,美亚电影
+https://s2.m16tv.cfd/aktv/hk/AKTV.m3u8
 #EXTINF:-1 ,美亚电影
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 
 #EXTINF:-1 ,VIUTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 #EXTINF:-1 ,ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 #EXTINF:-1 ,ViuTV6
 #EXTINF:-1 ,VIUTV6
 
@@ -51,7 +54,7 @@ http://cdn.132.us.kg/live/as/stream.m3u8
 
 #English
 #EXTINF:-1,AXN
-http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+https://s2.m16tv.cfd/aktv/axn/AKTV.m3u8
 #EXTINF:-1,AXN Taiwan
 #EXTINF:-1,AXN Taiwan
 
