@@ -19,18 +19,11 @@ http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 
 #EXTINF:-1 ,香港開電視
 #EXTINF:-1 ,香港開電視
-http://cdn.132.us.kg/live/hoy/stream.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 ,HOY香港開電視
 #EXTINF:-1 ,香港開電視
-https://cdn.163189.xyz/live/hoy/stream.m3u8
-#EXTINF:-1 ,香港開電視
-https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 
 #EXTINF:-1 ,美亚电影
-https://s2.m16tv.cfd/aktv/hk/AKTV.m3u8
-#EXTINF:-1 ,美亚电影
-http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-#EXTINF:-1 ,美亚电影
-http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 
 #EXTINF:-1 ,VIUTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
@@ -43,10 +36,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 http://php.jdshipin.com/TVOD/iptv.php?id=asam
 #EXTINF:-1 ,澳視澳門
 https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 ,澳視澳門
-http://cdn.132.us.kg/live/asam/stream.m3u8
-#EXTINF:-1 ,澳視澳門
-https://cdn.163189.xyz/live/asam/stream.m3u8
 #EXTINF:-1 ,澳视卫星
 http://php.jdshipin.com/TVOD/iptv.php?id=as
 #EXTINF:-1 ,澳视卫星
